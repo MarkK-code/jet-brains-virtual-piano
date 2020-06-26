@@ -1,7 +1,8 @@
-# jet-brains-virtual-piano
+# Virtual-piano
 
 ## Small project on creating virtual piano 
 
+This project comes from jet brains academy - hyperskills. 
 Here are some basics for front-end developer which were on hyperskills webpage.
 During this project I wrote markup HTML document and most popular CSS properties. There is also used basic JavaScript with handles for browser events.
 
